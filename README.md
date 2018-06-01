@@ -1,4 +1,4 @@
-#H1 Musicall, notre plateforme dédiée à la musique en ligne pour tous !
+# H1 Musicall, notre plateforme dédiée à la musique en ligne pour tous !
 
 Musicall est un service français d'écoute de musique en streamning sous la forme d'un site web lancé en octobre 2017.
 
